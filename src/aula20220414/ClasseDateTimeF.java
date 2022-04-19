@@ -7,11 +7,7 @@ import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
 
-/**
- * @author diegocardosodev
- * @version 1.0
- */
-public class ClasseDateTimeF {
+ class ClasseDateTimeF {
 
     public static void main(String[] args) {
 
