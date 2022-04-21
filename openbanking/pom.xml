@@ -4,4 +4,11 @@
   <artifactId>open-banking</artifactId>
   <version>1.0</version>
   <description>Projeto Open Banking - MJV</description>
+  
+ <properties>
+ 	<maven.compiler.target>15</maven.compiler.target>
+    <maven.compiler.source>15</maven.compiler.source>
+  </properties> 
+
+
 </project>
