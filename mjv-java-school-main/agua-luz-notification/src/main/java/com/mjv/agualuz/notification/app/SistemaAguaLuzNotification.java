@@ -20,6 +20,7 @@ public class SistemaAguaLuzNotification {
 		
 		cliente.setCpf("134638798");
 		cliente.setNome("Gleyson Sampaio");
+		cliente.setPais(Pais.Brasil);
 		
 		Endereco endereco = new Endereco();
 		cliente.setEndereco(endereco);
@@ -31,6 +32,7 @@ public class SistemaAguaLuzNotification {
 		endereco.setLogradouro("Rua das Marias");
 		endereco.setNumero("243");
 		endereco.setComplemento("Bloco C");
+		
 		
 		
 		GeradorMensagem gm = new GeradorMensagem();
